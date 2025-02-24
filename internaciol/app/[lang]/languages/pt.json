@@ -1,0 +1,15 @@
+{
+
+  "Header": {
+    "meta-titulo": "Projeto de Internacionalização",
+    "meta-descricao": "Projeto de internacionalização com Next.js e Tailwind CSS"
+  },
+  "Home": {
+    "titulo-apresentacao": "Olá, tudo bem? Segue meu projeto de intercionalização!",
+    "sub-titulo": "Esse é um projeto Next.js com Tailwind CSS configurado.",
+    "paragrafo": {
+      "1": "Aqui vou buscar mostrar como usa-se um dicionario em 3 linguagens diferentes é como seria feito este processo",
+      "2": "Este é um projeto Next.js com TypeScript, ESLint, Prettier e Tailwind CSS configurados."
+    }
+  }
+}
